@@ -1,0 +1,12 @@
+
+public class char_at 
+{
+	public static void main(String[] args) 
+	{
+
+		String str1="international";
+		char ch=str1.charAt(5);
+		System.out.println(ch);
+	
+	}
+}

@@ -1,0 +1,9 @@
+public class app2
+{
+	public static void main(String[] args) 
+	{
+		int [] arr= {10,20,30,8,12,56,45,56};
+		int size=arr.length;
+		
+	}
+}
